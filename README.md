@@ -87,8 +87,14 @@
   ### GitHub
   <div align="center">
     
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitia-Fi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitia-Fi&theme=tokyonight&hide_border=true&layout=compact)
+
    ![](https://github-readme-activity-graph.vercel.app/graph?username=mitia-Fi&theme=tokyo-night)
+
+   <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitia-Fi&show_icons=true&theme=tokyonight&hide_border=true)
+
+   ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=mitia-Fi&theme=tokyonight&hide_border=true)-->
+
    
   </div>
 </details>

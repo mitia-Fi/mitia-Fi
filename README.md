@@ -90,7 +90,7 @@
   ### GitHub
   <div align="center">
     
-   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitia-Fi&theme=tokyonight&hide_border=true&layout=compact)
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mitia-Fi&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true&count_private=true)
 
    ![](https://github-readme-activity-graph.vercel.app/graph?username=mitia-Fi&theme=tokyo-night)
 

@@ -1,4 +1,4 @@
-<h1 align=center> Yoh ✌️😎 </h1>
+<h1 align=center> Yoh 😎✌️ </h1>
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%2390ee90&size=23&center=true&vCenter=true&lines=Just+call+me+Mitia+!"></h1>
 
 <p align="center">

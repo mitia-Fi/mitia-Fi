@@ -20,7 +20,7 @@
 
 
 <details>
-  <summary align = "center" ><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
+  <summary align = "center" ><h4> <img align="center" src="https://github.com/ParthJohri/ParthJohri/blob/readME/icons/techstack.gif"  width="29"/> Tech Stacks</h2></summary>
 
   #### Languages
 <div align="center">

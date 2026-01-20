@@ -2,7 +2,7 @@
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%2390ee90&size=23&center=true&vCenter=true&lines=Just+call+me+Mitia+!"></h1>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitia-Fi&theme=tokyonight&hide_border=true&background=transparent&currStreakLabel=lightgreen&sideLabels=lightgreen&ring=lightgreen&fire=lightgreen&currStreakNum=lightgreen" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mitia-Fi&theme=tokyonight&hide_border=true&background=transparent&currStreakLabel=lightgreen&sideLabels=lightgreen&ring=lightgreen&fire=lightgreen&currStreakNum=lightgreen" alt="GitHub Streak Stats" />
 </p>
 
 

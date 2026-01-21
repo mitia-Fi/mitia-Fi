@@ -1,4 +1,4 @@
-<h1 align=center> Yoh 😎✌️ </h1>
+<h1 align="center"> Yoh 😎<span style="display: inline-block; animation: wave 2s infinite;">✌️</span> </h1>
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?font=jetbrains+mono&color=%2390ee90&size=23&center=true&vCenter=true&lines=Just+call+me+Mitia+!"></h1>
 
 <p align="center">
@@ -114,3 +114,17 @@
    
   </div>
 </details>
+
+
+<style>
+  @keyframes wave {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(10deg); }
+    20% { transform: rotate(-5deg); }
+    30% { transform: rotate(8deg); }
+    40% { transform: rotate(-3deg); }
+    50% { transform: rotate(6deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
